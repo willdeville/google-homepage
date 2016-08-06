@@ -64,7 +64,7 @@ a:hover {
 	margin: 140px;
 	border: 0px;
 	text-align: center;
-	padding-bottom: 10px;
+	padding-bottom: 8px;
 }
 
 #glogo {
@@ -76,7 +76,7 @@ a:hover {
 	margin: auto;
 	border: solid 1px;
 	width: 560px;
-	height: 22px;
+	height: 30px;
 	border-color: #cacaca;
 	padding: 8px;
 }
