@@ -64,6 +64,7 @@ a:hover {
 	margin: 140px;
 	border: 0px;
 	text-align: center;
+	padding-bottom: 10px;
 }
 
 #glogo {
@@ -91,7 +92,7 @@ a:hover {
 	position: relative;
 }	
 
-.forms1 {
+.forms {
 	margin: auto;
 	padding: 0px;
 }
@@ -127,9 +128,6 @@ a:hover {
 	border-top: solid 1px #e0e0e0;
 	height: 40px;
 	margin: 105px 0px 0px 0px;
-	position: absolute;
-	
-	
 }
 
 #footer-left {
