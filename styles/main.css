@@ -119,11 +119,11 @@ a:hover {
 /*footer*/
 
 .footer {
-	width: 1349px;
-	background-color: #f4f4f4;
-	border-top: solid 1px #e0e0e0;
-	height: 40px;
-	margin: 105px 0px 0px 0px;
+	width: 100%;
+	position: fixed;
+	bottom: 0px;
+	border: 1px solid #e2e2e2;
+	background-color: #f2f2f2;
 }
 
 #footer-left {
